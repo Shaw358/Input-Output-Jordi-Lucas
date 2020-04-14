@@ -20,7 +20,7 @@ function animate()
   client.config('control:altitude_max',maxAltitide);
   client
     .after(0, function() {
-      console.log("het werkt");
+      console.log("console.log(\n Dit is wat je moet weten over het bestuuren van de drone\n De blauwe kant is de voor kant\n Dit zijn de bestuuringen van de drone:\n- W = naar voren\n- S= naar achter\n- A= naar rechts \n- D= naar links\n- Q= omhoog\n- E= omlaag\n- C= stoppen en calibreren\n- F= laten draaien\n- Y= heel hard naar voren laten vliegen\n- L= landen\n- T= opsteigen\n\ndit was alles wat je moet weten om de drone te bestuuren succes :D);");
       this.stop();
       //client.calibrate(0);
     })
