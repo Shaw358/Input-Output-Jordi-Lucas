@@ -1,12 +1,20 @@
+//packages nodig voor de drone
 var arDrone = require('ar-drone');
 var keypress = require('keypress');
+
+//Voor connectie met de drone
 var client = arDrone.createClient();
 
+//variable
 let maxAltitide = 1000;
+let delay = 1000;
+let speed = 1;
 
+//Zorgt voor updates die kijkt naar de acties die de drone moet uitvoeren en naar de user input
 animate();
 function animate()
 {
+  //opstijgen
   console.log("ja");
   client.takeoff();
   client.config('control:altitude_max',maxAltitide);
@@ -24,12 +32,11 @@ function animate()
     })
   }
 
-
-
   // make `process.stdin` begin emitting "keypress" events
   keypress(process.stdin);
 
   // listen for the "keypress" event
+  // User input word hier opgenomen 
   process.stdin.on('keypress', function (ch, key) {
     //console.log('got "keypress"', key);
     if(key.name == "t"){
@@ -98,5 +105,6 @@ function animate()
                     };
   });
 
+  //Essential
   process.stdin.setRawMode(true);
   process.stdin.resume();
