@@ -105,6 +105,6 @@ function animate()
                     };
   });
 
-  //Essential
+  //Ook nodig voor het oppakken van de keys
   process.stdin.setRawMode(true);
   process.stdin.resume();
