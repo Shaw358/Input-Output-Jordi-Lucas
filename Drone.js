@@ -15,7 +15,6 @@ animate();
 function animate()
 {
   //opstijgen
-  console.log("ja");
   client.takeoff();
   client.config('control:altitude_max',maxAltitide);
   client
