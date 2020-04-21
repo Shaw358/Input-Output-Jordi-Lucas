@@ -1,7 +1,7 @@
 # Input-Output-Jordi-Lucas - GD2A/Team 7
 
 ![Drone Test](https://cdn.discordapp.com/attachments/499146463893520384/702125375450513448/unknown.png) <br>
-## Drone project 
+<h2> Drone project </h2>
 Dit project is gemaakt door Jordi en Lucas uit GD2A tussen 11-02-2020 en 20-4-2020. <br>
 Ons project was een besturing maken voor een drone, de AR parrot 2.0. <br>
 Hiervoor gebruikte wij een drone die van school was <br>
@@ -10,7 +10,7 @@ Wij waren van plan om 3 manieren van besturing te maken waarvan er 2 gelukt zijn
 2. Vliegen met een zelf gemaakt pad. :heavy_check_mark: <br>
 3. Vliegen met spraak herkenning. :x: <br>
 <br>
-### Software 
+<h2> Software </h2>
 <br>
 * LucidChart (Class Diagrams) <br>
 * Unreal (Voor een UI, niet meer gebruikt na week 3) <br>
@@ -18,7 +18,7 @@ Wij waren van plan om 3 manieren van besturing te maken waarvan er 2 gelukt zijn
 * Nodejs (Om data naar de drone te sturen en terug te krijgen) <br>
 * Npm packages (Packes met functions voor dingen zoals de de drone of voice recognition) <br>
 <br>
-#### Documentatie:
+<h2> Documentatie:</h2>
 <br>
 * Logboek: https://docs.google.com/document/d/1iY1iDPUxXM5Qa_hzOlKEWnx4jjdut_rdCIQrIScL6DE/edit?usp=sharing <br>
 * Dag 1 idee tekening: https://cdn.discordapp.com/attachments/499146463893520384/702131365981978705/20200129_114252.jpg <br>
