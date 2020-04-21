@@ -4,6 +4,8 @@
 Links naar de Documentatie:
 
 Logboek:  <br>
+* Dag 1 idee tekening: https://cdn.discordapp.com/attachments/499146463893520384/702131365981978705/20200129_114252.jpg <br>
+
 * Originele planning:  <br>
 * Gebruikte planning:  <br>
 * Onderzoek Document: https://docs.google.com/document/d/1Z9mUphpO5kiY4aRt4z9eTlxDyCLmiayS2JESW5y-4Ok/edit?usp=sharing <br>
