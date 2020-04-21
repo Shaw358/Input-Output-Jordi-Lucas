@@ -36,3 +36,4 @@ Dit komt omdat we de drone nodig haden om te kijken of de code wel goed werkte. 
 * Test Rapportage: https://docs.google.com/document/d/17tEUWw-yrW0b2noOji1xeaZ-UBI6j5pl7K9kt7gFRLY/edit?usp=sharing <br>
 * Class Diagram (niet gebruikt): https://www.lucidchart.com/invitations/accept/ef968e95-5cf0-411e-901a-51f97d793116 <br>
 * Class Diagram: https://www.lucidchart.com/invitations/accept/a950d0ee-6719-4a9a-ae26-d5621f992051<br>
+* Veranderingen: https://docs.google.com/document/d/1q0n2wH-RaaFAbGSJGLRlsZF2P37dzPPa-7jnzoICWzg/edit?usp=sharing <br>
