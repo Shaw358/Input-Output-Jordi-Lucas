@@ -1,7 +1,7 @@
 # Input-Output-Jordi-Lucas - GD2A/Team 7
 
 ![Drone Test](https://cdn.discordapp.com/attachments/499146463893520384/702125375450513448/unknown.png) <br>
-Links naar de Documentatie:
+##Documentatie:
 
 Logboek:  <br>
 * Dag 1 idee tekening: https://cdn.discordapp.com/attachments/499146463893520384/702131365981978705/20200129_114252.jpg <br>
