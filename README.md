@@ -9,9 +9,17 @@ Wij waren van plan om 3 manieren van besturing te maken waarvan er 2 gelukt zijn
 1. Vliegen met directe key input. :heavy_check_mark: <br>
 2. Vliegen met een zelf gemaakt pad. :heavy_check_mark: <br>
 3. Vliegen met spraak herkenning. :x: <br>
-
+<br>
+## Software 
+<br>
+* LucidChart (Class Diagrams) <br>
+* Unreal (Voor een UI, niet meer gebruikt na week 3) <br>
+* Atom/Visual code (Text editor voor programmeren) <br>
+* Nodejs (Om data naar de drone te sturen en terug te krijgen) <br>
+* Npm packages (Packes met functions voor dingen zoals de de drone of voice recognition) <br>
+<br>
 ## Documentatie:
-
+<br>
 * Logboek: https://docs.google.com/document/d/1iY1iDPUxXM5Qa_hzOlKEWnx4jjdut_rdCIQrIScL6DE/edit?usp=sharing <br>
 * Dag 1 idee tekening: https://cdn.discordapp.com/attachments/499146463893520384/702131365981978705/20200129_114252.jpg <br>
 * Originele planning: https://docs.google.com/spreadsheets/d/1QerOGwMDid_m6ujT9EJ7xE7LmZfQBEVsDWjaIEy_4LI/edit?usp=sharing<br>
