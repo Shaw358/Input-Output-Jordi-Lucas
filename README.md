@@ -19,6 +19,12 @@ Wij waren van plan om 3 manieren van besturing te maken waarvan er 2 gelukt zijn
 * Nodejs (Om data naar de drone te sturen en terug te krijgen) <br>
 * Npm packages (Packes met functions voor dingen zoals de drone of voice recognition) <br>
 <br>
+
+<h2>Software ontwikkel methode: </h2>
+Wij hebben de ontwikkel methode van prototyping geprobeert toe te passen. <br>
+Dit komt omdat we de drone nodig haden om te kijken of de code wel goed werkte. <br>
+<br>
+
 <h2> Documentatie:</h2>
 
 * Logboek: https://docs.google.com/document/d/1iY1iDPUxXM5Qa_hzOlKEWnx4jjdut_rdCIQrIScL6DE/edit?usp=sharing <br>
