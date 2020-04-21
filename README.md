@@ -1,6 +1,14 @@
 # Input-Output-Jordi-Lucas - GD2A/Team 7
 
 ![Drone Test](https://cdn.discordapp.com/attachments/499146463893520384/702125375450513448/unknown.png) <br>
+## Drone project 
+Dit project is gemaakt door Jordi en Lucas uit GD2A tussen 11-02-2020 en 20-4-2020. <br>
+Ons project was een bestuurling maken voor een drone, de AR parrot 2.0. <br>
+Wij waren van plan om 3 manieren van bestuuring te maken waarvan er 2 gelukt zijn.
+1. Vliegen met directe key input. :heavy_check_mark: <br>
+2. Vliegen met een zelf gemaakt pad. :heavy_check_mark: <br>
+3. Vliegen met spraak herkenning. :x: <br>
+
 ## Documentatie:
 
 Logboek:  <br>
