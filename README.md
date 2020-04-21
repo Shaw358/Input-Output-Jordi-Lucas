@@ -11,7 +11,6 @@ Wij waren van plan om 3 manieren van besturing te maken waarvan er 2 gelukt zijn
 3. Vliegen met spraak herkenning. :x: <br>
 <br>
 <h2> Software </h2>
-<br>
 * LucidChart (Class Diagrams) <br>
 * Unreal (Voor een UI, niet meer gebruikt na week 3) <br>
 * Atom/Visual code (Text editor voor programmeren) <br>
@@ -19,7 +18,6 @@ Wij waren van plan om 3 manieren van besturing te maken waarvan er 2 gelukt zijn
 * Npm packages (Packes met functions voor dingen zoals de de drone of voice recognition) <br>
 <br>
 <h2> Documentatie:</h2>
-<br>
 * Logboek: https://docs.google.com/document/d/1iY1iDPUxXM5Qa_hzOlKEWnx4jjdut_rdCIQrIScL6DE/edit?usp=sharing <br>
 * Dag 1 idee tekening: https://cdn.discordapp.com/attachments/499146463893520384/702131365981978705/20200129_114252.jpg <br>
 * Originele planning: https://docs.google.com/spreadsheets/d/1QerOGwMDid_m6ujT9EJ7xE7LmZfQBEVsDWjaIEy_4LI/edit?usp=sharing<br>
