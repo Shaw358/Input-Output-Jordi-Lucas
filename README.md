@@ -6,6 +6,7 @@ Dit project is gemaakt door Jordi en Lucas uit GD2A tussen 11-02-2020 en 20-4-20
 Ons project was een besturing maken voor een drone, de AR parrot 2.0. <br>
 Hiervoor gebruikte wij een drone die van school was <br>
 Wij waren van plan om 3 manieren van besturing te maken waarvan er 2 gelukt zijn. <br>
+
 1. Vliegen met directe key input. :heavy_check_mark: <br>
 2. Vliegen met een zelf gemaakt pad. :heavy_check_mark: <br>
 3. Vliegen met spraak herkenning. :x: <br>
