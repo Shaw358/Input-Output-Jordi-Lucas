@@ -15,7 +15,7 @@ Wij waren van plan om 3 manieren van besturing te maken waarvan er 2 gelukt zijn
 
 * LucidChart (Class Diagrams) <br>
 * Unreal (Voor een UI, niet meer gebruikt na week 3) <br>
-* Atom/Visual code (Text editor voor programmeren) <br>
+* Atom/Visual Studio code (Text editor voor programmeren) <br>
 * Nodejs (Om data naar de drone te sturen en terug te krijgen) <br>
 * Npm packages (Packes met functions voor dingen zoals de de drone of voice recognition) <br>
 <br>
