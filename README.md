@@ -28,3 +28,5 @@ Wij waren van plan om 3 manieren van besturing te maken waarvan er 2 gelukt zijn
 * Onderzoek Document/Bronnen: https://docs.google.com/document/d/1Z9mUphpO5kiY4aRt4z9eTlxDyCLmiayS2JESW5y-4Ok/edit?usp=sharing <br>
 * Ontwerp Document: https://docs.google.com/document/d/18V48Ld02eD5jFoPywJLD89hgV2wCTgMm1HRmE4rx6uI/edit?usp=sharing <br>
 * Test Rapportage: https://docs.google.com/document/d/17tEUWw-yrW0b2noOji1xeaZ-UBI6j5pl7K9kt7gFRLY/edit?usp=sharing <br>
+* Class Diagram (niet gebruikt): https://www.lucidchart.com/invitations/accept/ef968e95-5cf0-411e-901a-51f97d793116 <br>
+* Class Diagram: https://www.lucidchart.com/invitations/accept/a950d0ee-6719-4a9a-ae26-d5621f992051<br>
