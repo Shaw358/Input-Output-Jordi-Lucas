@@ -1,6 +1,6 @@
-# Input-Output-Jordi-Lucas
+# Input-Output-Jordi-Lucas - GD2A/Team 7
 
-![Drone Test](https://cdn.discordapp.com/attachments/499146463893520384/702125375450513448/unknown.png)
+![Drone Test](https://cdn.discordapp.com/attachments/499146463893520384/702125375450513448/unknown.png) <br>
 Links naar de Documentatie:
 
 Onderzoek Document: https://docs.google.com/document/d/1Z9mUphpO5kiY4aRt4z9eTlxDyCLmiayS2JESW5y-4Ok/edit?usp=sharing <br>
