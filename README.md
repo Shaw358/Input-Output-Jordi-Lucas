@@ -14,8 +14,8 @@ Wij waren van plan om 3 manieren van besturing te maken waarvan er 2 gelukt zijn
 Logboek:  <br>
 * Dag 1 idee tekening: https://cdn.discordapp.com/attachments/499146463893520384/702131365981978705/20200129_114252.jpg <br>
 
-* Originele planning:  <br>
-* Gebruikte planning:  <br>
+* Originele planning: https://docs.google.com/spreadsheets/d/1QerOGwMDid_m6ujT9EJ7xE7LmZfQBEVsDWjaIEy_4LI/edit?usp=sharing<br>
+* Gebruikte planning: https://docs.google.com/spreadsheets/d/1E5NzPFxN3qpXYcmJOfHXHHsjAmp7F66n9oVmozT_W48/edit?usp=sharing <br>
 * Onderzoek Document: https://docs.google.com/document/d/1Z9mUphpO5kiY4aRt4z9eTlxDyCLmiayS2JESW5y-4Ok/edit?usp=sharing <br>
 * Ontwerp Document: https://docs.google.com/document/d/18V48Ld02eD5jFoPywJLD89hgV2wCTgMm1HRmE4rx6uI/edit?usp=sharing <br>
 * Test Rapportage: https://docs.google.com/document/d/17tEUWw-yrW0b2noOji1xeaZ-UBI6j5pl7K9kt7gFRLY/edit?usp=sharing <br>
